@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hem&#39;s Blog</title>
   <subtitle>Testing for Hexo</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/MyHexBlog/atom.xml" rel="self"/>
   
   <link href="https://hem1102.github.io/MyHexoBlog/"/>
   <updated>2016-08-09T13:25:18.771Z</updated>
