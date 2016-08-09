@@ -4,9 +4,9 @@
   <subtitle>Testing for Hexo</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hem1102.github.io/MyHexoBlog/"/>
   <updated>2016-08-09T13:25:18.771Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hem1102.github.io/MyHexoBlog/</id>
   
   <author>
     <name>Hem</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>MyfirstPost</title>
-    <link href="http://yoursite.com/2016/08/09/MyfirstPost/"/>
-    <id>http://yoursite.com/2016/08/09/MyfirstPost/</id>
+    <link href="http://hem1102.github.io/MyHexoBlog/2016/08/09/MyfirstPost/"/>
+    <id>http://hem1102.github.io/MyHexoBlog/2016/08/09/MyfirstPost/</id>
     <published>2016-08-09T13:21:09.000Z</published>
     <updated>2016-08-09T13:25:18.771Z</updated>
     
@@ -33,7 +33,7 @@
     </summary>
     
     
-      <category term="tags" scheme="http://yoursite.com/tags/tags/"/>
+      <category term="tags" scheme="http://hem1102.github.io/MyHexoBlog/tags/tags/"/>
     
   </entry>
   
